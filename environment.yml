@@ -1,3 +1,6 @@
+name: sharing-github
+channels:
+  - defaults
 dependencies:
   - python
   - numpy
